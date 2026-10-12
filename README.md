@@ -64,20 +64,13 @@ Precision, recall, F1-score, and confusion matrices were also examined to assess
 
 **Support Vector Machine (RBF kernel)** was selected as the best-performing algorithm based on its highest observed accuracy.
 
-<p align="center">
-  <img src="images/SVM_accuracy_statistics.png" alt="SVM_accuracy_statistics" width="600">
-</p>
-<p align="center">
-  <em>Figure 2: Accuracy statistics of SVM.</em>
-</p>
-
 The selection also considered its ability to model nonlinear relationships and the preprocessing steps used in the workflow, including feature scaling, feature selection, and stratified sampling. The reported results support its selection among the five evaluated models; they do not establish that it outperforms every possible alternative.
 
 <p align="center">
-  <img src="images/SVM_full_workflow.png" alt="SVM full workflow" width="800">
+  <img src="images/SVM_full_workflow.png" alt="SVM full workflow and accuracy statistics" width="800">
 </p>
 <p align="center">
-  <em>Figure 3: Full workflow of SVM.</em>
+  <em>Figure 3: Full workflow and accuracy statistics of SVM.</em>
 </p>
 
 ### Repository Contents
