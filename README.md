@@ -33,7 +33,7 @@ The classification process consists of the following stages:
   <img src="images/Data_preprocessing_full_workflow.png" alt="Data preprocessing workflow" width="800">
 </p>
 <p align="center">
-  <em>Figure 1: Data preprocessing workflow implemented in KNIME.</em>
+  <em>Figure 1: Data preprocessing workflow implemented for classification.</em>
 </p>
 
 ### Algorithms Evaluated
@@ -70,7 +70,7 @@ The selection also considered its ability to model nonlinear relationships and t
   <img src="images/SVM_full_workflow.png" alt="SVM full workflow and accuracy statistics" width="800">
 </p>
 <p align="center">
-  <em>Figure 3: Full workflow and accuracy statistics of SVM.</em>
+  <em>Figure 2: Full workflow and accuracy statistics of SVM.</em>
 </p>
 
 ### Repository Contents
@@ -123,7 +123,7 @@ The clustering process consists of the following stages:
   <img src="images/Data_preprocessing_Clustering.png" alt="Data Preprocessing of Clustering" width="800">
 </p>
 <p align="center">
-  <em>Figure 4: Data Preprocessing of Clustering.</em>
+  <em>Figure 3: Data preprocessing workflow implemented for Clustering</em>
 </p>
 
 ### Algorithms Evaluated
@@ -158,7 +158,7 @@ Its selection was based on the highest observed Silhouette Score, slightly bette
   <img src="images/DBSCAN_full_workflow.png" alt="DBSCAN full workflow" width="800">
 </p>
 <p align="center">
-  <em>Figure 5: Full workflow of DBSCAN.</em>
+  <em>Figure 4: Full workflow of DBSCAN.</em>
 </p>
 
 ### Repository Contents
